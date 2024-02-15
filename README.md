@@ -3,5 +3,5 @@ web browser tutorial
 
 
 # TO DO LIST
-- [ ] boiler plate 
+- [x] boiler plate 
 - [x] index html
