@@ -20,10 +20,10 @@ car https://newsroom.porsche.com/.imaging/mte/porsche-templating-theme/image_108
 
 ___
 document map
--[x] home page
--[ ] text exp.html
--[ ] metadata.html
--[ ] childteplate.html
--[ ] images.html
--[ ]
+- [x] home page
+- [ ] text exp.html
+- [ ] metadata.html
+- [ ] childteplate.html
+- [ ] images.html
+- [ ]
 ___
